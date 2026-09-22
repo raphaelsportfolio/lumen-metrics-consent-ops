@@ -6,6 +6,9 @@ system for a marketing database, built entirely on free-tier tools.
 **Core question this project answers:**
 > Can this marketing database actually be used legally and safely for marketing?
 
+## Live demo
+https://raphaelsportfolio.github.io/lumen-metrics-consent-ops/
+
 ## What this is
 A working (if intentionally modest) implementation of:
 1. Consent capture at the front door (cookie/tracking consent + form-level
@@ -27,6 +30,8 @@ GitHub Pages · Google Tag Manager · GA4 · HubSpot Free CRM — $0 budget,
 documented throughout.
 
 ## Project structure
+- `index.html`, `demo.html`, `resources.html`, `preferences.html`,
+  `privacy.html`, `cookies.html`, `style.css`, `script.js` — the live demo
+  website, published from the repo root via GitHub Pages
 - `/docs` — architecture, data model, and compliance documentation
-- `/site` — the demo website (added in Phase 3)
 - `/evidence` — screenshots and configuration evidence
