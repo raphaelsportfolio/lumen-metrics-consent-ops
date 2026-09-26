@@ -50,5 +50,5 @@ Demo Request Form, Newsletter & Ebook Form, Manage Preferences Form — full
 specification in `06-consent-capture-specification.md`.
 
 ## Tracking settings
-Site domain (`<username>.github.io`) added to Additional site domains to
-prevent external form submissions being marked as spam.
+Site domain (`https://raphaelsportfolio.github.io/lumen-metrics-consent-ops/`) added to Additional site domains to
+prevent external form submissions from being marked as spam.
