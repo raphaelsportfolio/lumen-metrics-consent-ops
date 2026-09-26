@@ -33,5 +33,17 @@ documented throughout.
 - `index.html`, `demo.html`, `resources.html`, `preferences.html`,
   `privacy.html`, `cookies.html`, `style.css`, `script.js` — the live demo
   website, published from the repo root via GitHub Pages
+
+## Documentation
+- [00 — Company Fact Sheet](docs/00-company-fact-sheet.md)
+- [01 — Consent Policy Assumptions & Limitations](docs/01-consent-policy-assumptions.md)
+- [02 — Consent Data Model](docs/02-consent-data-model.md)
+- [03 — Suppression Logic & Audit SOP](docs/03-suppression-logic.md)
+- [04 — QA Test Plan & Results](docs/04-qa-test-plan.md)
+- [05 — Consent Architecture](docs/05-consent-architecture.md)
+- [06 — Consent Capture Specification](docs/06-consent-capture-specification.md)
+- [07 — HubSpot Configuration](docs/07-hubspot-configuration.md)
+- [08 — Preference Management Specification](docs/08-preference-management.md)
+- [09 — Implementation Guide](docs/09-implementation-guide.md)
 - `/docs` — architecture, data model, and compliance documentation
 - `/evidence` — screenshots and configuration evidence
