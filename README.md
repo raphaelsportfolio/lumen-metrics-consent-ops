@@ -1,5 +1,6 @@
 # Lumen Metrics — Consent Management & Compliance Operations
 
+**[Read the full case study →](CASE-STUDY.md)**
 A portfolio project demonstrating a practical, end-to-end consent-management
 system for a marketing database, built entirely on free-tier tools.
 
